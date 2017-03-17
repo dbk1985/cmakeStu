@@ -1,0 +1,3 @@
+// the configured options and settings for Tutorial
+#define CmakeStu_VERSION_MAJOR @CmakeStu_VERSION_MAJOR@
+#define CmakeStu_VERSION_MINOR @CmakeStu_VERSION_MINOR@
