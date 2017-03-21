@@ -1,0 +1,2 @@
+/Volumes/C/WorkSpace/cmakeStu/chapter_03/build/CMakeFiles/cmakeStu.dir
+/Volumes/C/WorkSpace/cmakeStu/chapter_03/build/MathFunctions/CMakeFiles/MathFunctions.dir

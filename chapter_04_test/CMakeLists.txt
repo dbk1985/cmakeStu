@@ -15,3 +15,6 @@ endif(USE_SYSTEM)
 
 add_executable(cmakeStu ${DIR_SRCS})
 target_link_libraries(cmakeStu ${EXTER_LIBS})
+
+# 开启测试
+enable_testing()
